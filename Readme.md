@@ -12,4 +12,3 @@ Package ses provides a small wrapper around AWS SES.
 
 
 
-
